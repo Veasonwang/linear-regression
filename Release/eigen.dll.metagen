@@ -1,0 +1,28 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly eigen, Version=0.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Sle_m: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    Double* x : Public
+    Double* y : Public
+    Double a : Public
+    Double b : Public
+    Int32 length : Public
+  Methods:
+    get_a(): PrivateScope, Public, HideBySig
+    get_b(): PrivateScope, Public, HideBySig
+    recive_x(Double, Int32): PrivateScope, Public, HideBySig
+    recive_y(Double, Int32): PrivateScope, Public, HideBySig
+    Single_Cal(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class Dob_m: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Sle_m
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Double_Cal(): PrivateScope, Public, HideBySig

@@ -1,0 +1,14 @@
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\bin\x86\Release\分析.exe.config
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\bin\x86\Release\分析.exe
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\bin\x86\Release\eigen.pdb
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\回归分析.csprojResolveAssemblyReference.cache
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\技术验证2._0.Analysis.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\技术验证2._0.Form1.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\技术验证2._0.gdi.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\技术验证2._0.Loading.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\技术验证2._0.MulAnalysis.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\技术验证2._0.Mul_display.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\分析.Properties.Resources.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\回归分析.csproj.GenerateResource.Cache
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\回归分析.csproj.CoreCompileInputs.cache
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\技术验证2.0\obj\x86\Release\分析.exe

@@ -1,0 +1,10 @@
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\linear regression\obj\Debug\回归分析.csprojResolveAssemblyReference.cache
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\linear regression\obj\Debug\linear_regression.Analysis.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\linear regression\obj\Debug\linear_regression.Form1.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\linear regression\obj\Debug\linear_regression.gdi.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\linear regression\obj\Debug\linear_regression.Loading.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\linear regression\obj\Debug\linear_regression.MulAnalysis.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\linear regression\obj\Debug\linear_regression.Mul_display.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\linear regression\obj\Debug\分析.Properties.Resources.resources
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\linear regression\obj\Debug\回归分析.csproj.GenerateResource.Cache
+C:\Users\canqu\Desktop\Desktop\技术验证2.0\linear regression\obj\Debug\回归分析.csproj.CoreCompileInputs.cache

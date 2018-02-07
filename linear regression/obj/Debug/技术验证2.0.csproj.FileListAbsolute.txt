@@ -1,0 +1,15 @@
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\bin\Debug\技术验证2.0.exe.config
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\bin\Debug\技术验证2.0.exe
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\bin\Debug\技术验证2.0.pdb
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\bin\Debug\动态库.dll
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\bin\Debug\动态库.pdb
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\obj\Debug\技术验证2.0.csprojResolveAssemblyReference.cache
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\obj\Debug\技术验证2._0.Form1.resources
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\obj\Debug\技术验证2._0.Properties.Resources.resources
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\obj\Debug\技术验证2.0.csproj.GenerateResource.Cache
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\obj\Debug\技术验证2.0.exe
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\obj\Debug\技术验证2.0.pdb
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\obj\Debug\技术验证2._0.Analysis.resources
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\obj\Debug\技术验证2._0.Loading.resources
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\bin\Debug\eigen.dll
+C:\Users\veasonwang\Desktop\数学地球科学\技术验证2.0\技术验证2.0\bin\Debug\eigen.pdb
